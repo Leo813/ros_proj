@@ -1,0 +1,14 @@
+source the workspace(for launching something):
+1. cd turtlebot3_ws/
+2. source install/setup.bash
+
+source ros2(for topics):
+1.source /opt/ros/foxy/setup.bash
+
+how to install and open rosboard:
+1. search rosboard
+2. in github, do the prerequires first.
+3. on top, click 'code' and copy the url.
+4. git clone <the url>
+5. cd to rosboard and do "./run"
+6. type "http://localhost:8888" on broweser
